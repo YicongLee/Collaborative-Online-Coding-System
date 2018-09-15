@@ -1,4 +1,4 @@
-# Collaborative-Online-Judge-System
+# Collaborative-Online-Coding-System
 This project is a full-stack system supporting collaborative code editing, compling , execution and result judgement.   
 User can use iterative code editor to edit code. Supported language are Java, C++ and Pyhton. In addistion, we need to keep the capacity fr new language.       
 Multiple users can compile the code by clicking 'compile' button. The compile result will be desplayed to user.           
